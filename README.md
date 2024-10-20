@@ -4,6 +4,8 @@ I'm a **Junior Software Developer** passionate about coding and learning new ski
 
 I'm particularly interested in **[cybersecurity, mobile apps, frontend, game development , etc.]**, and I'm always open to collaboration and new ideas!
 
+![Bertitox](https://img.shields.io/badge/Bertitox-blue?style=flat-square&logo=github)
+
 ### 🚀 Technologies & Tools
 
 - 💻 **Languages**: Java, Kotlin, Python, JavaScript
