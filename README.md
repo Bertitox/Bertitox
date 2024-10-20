@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 # 👾Bertitox🧑🏻‍💻
 I'm a **Junior Software Developer** passionate about coding and learning new skills every day. My primary focus is on **Java**, but I'm always excited to dive into new technologies and challenges.<br><br>I'm particularly interested in **cybersecurity, mobile apps, frontend, game development , etc.**, and I'm always open to collaboration and new ideas!<br>
 [![](https://visitcount.itsvg.in/api?id=Bertitox&icon=2&color=6)](https://visitcount.itsvg.in)
