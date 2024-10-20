@@ -17,11 +17,12 @@ I'm particularly interested in **[cybersecurity, mobile apps, frontend, game dev
 
 ![Bertitox's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 
-- [LinkedIn](https://linkedin.com/in/tuusuario)
-- [Twitter](https://twitter.com/tuusuario)
-- Email: tuemail@example.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/alberto-castellanos-gato-63a655262/))
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AlbertoCas89589)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/albercg_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bertocastellanos@gmail.com)
 
 ### 🌱 Currently learning:
 - Docker & Kubernetes
